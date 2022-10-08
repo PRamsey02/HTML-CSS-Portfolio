@@ -1,4 +1,5 @@
 # personal-portfolio
 My personal portfolio showcasing my projects, about me section, and contact information.
 
-## file:///C:/Users/Preston/personal-portfolio/personal-portfolio/index.html#
+- Github Repository https://github.com/PRamsey02/personal-portfolio
+- Deployed Application https://pramsey02.github.io/personal-portfolio/
