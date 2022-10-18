@@ -1,4 +1,4 @@
-# personal-portfolio
+# Personal Portfolio
 My personal portfolio showcasing my projects, about me section, and contact information.
 
 - Github Repository https://github.com/PRamsey02/personal-portfolio
