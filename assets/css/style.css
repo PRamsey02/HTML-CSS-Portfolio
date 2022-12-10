@@ -61,7 +61,7 @@ html {
     position: absolute;
     top: 0;
     right: 0;
-    background: url('/C:/Users/Preston/Pictures/Saved Pictures/download (1).jfif') no-repeat center center/cover;
+    background: url('assets/images/background.jpg') no-repeat center center/cover;
     height: 900px;
     width: 100%;
     z-index: -1;
